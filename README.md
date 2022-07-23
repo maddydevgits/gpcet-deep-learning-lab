@@ -17,6 +17,10 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>1.</td>
     <td>Train the model to add two numbers and report the result</td>
   </tr>
+  <tr>
+    <td>2.</td>
+    <td>Train the model to multiply two matrices and report the result</td>
+  </tr>
 </table>
 
 # Questions
