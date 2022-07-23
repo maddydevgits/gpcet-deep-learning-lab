@@ -21,6 +21,10 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>2.</td>
     <td>Train the model to multiply two matrices and report the result</td>
   </tr>
+  <tr>
+    <td>3.</td>
+    <td>Train the model to print the prime numbers using Keras</td>
+  </tr>
 </table>
 
 # Questions
