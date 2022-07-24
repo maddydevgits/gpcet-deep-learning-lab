@@ -12,10 +12,12 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <th>S.No</th>
     <th>Name of Experiment</th>
+    <th>Code</th>
   </tr>
   <tr>
     <td>1.</td>
     <td>Train the model to add two numbers and report the result</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment1/app.py">Code</a></td>
   </tr>
   <tr>
     <td>2.</td>
