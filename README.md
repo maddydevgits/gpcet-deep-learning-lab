@@ -22,14 +22,17 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>2.</td>
     <td>Train the model to multiply two matrices and report the result</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment2/app.py">Code</a></td>
   </tr>
   <tr>
     <td>3.</td>
     <td>Train the model to print the prime numbers using Keras</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment3/app.py">Code</a></td>
   </tr>
   <tr>
     <td>4.</td>
     <td>Train the model with simple RNN on IMDB Data for movie review classification problem</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment4/app.ipynb">Code</a></td>
   </tr>
   <tr>
     <td>5.</td>
