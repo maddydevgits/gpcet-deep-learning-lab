@@ -25,6 +25,10 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>3.</td>
     <td>Train the model to print the prime numbers using Keras</td>
   </tr>
+  <tr>
+    <td>4.</td>
+    <td>Train the model with simple RNN on IMDB Data for movie review classification problem</td>
+  </tr>
 </table>
 
 # Questions
