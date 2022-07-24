@@ -29,6 +29,26 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>4.</td>
     <td>Train the model with simple RNN on IMDB Data for movie review classification problem</td>
   </tr>
+  <tr>
+    <td>5.</td>
+    <td>Temperature Forecast with simple RNN on weather dataset</td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>LSTM Implementation for IMDB Data</td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>GRU Implementation for Temperature Prediction System</td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>CNN Implementation on Temperature Prediction Data</td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>Stock Prediction System using LSTM</td>
+  </tr>
 </table>
 
 # Questions
