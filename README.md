@@ -48,7 +48,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>8.</td>
-    <td>CNN Implementation on Temperature Prediction Data</td>
+    <td>Dog and Cat Image Classifier using CNN</td>
   </tr>
   <tr>
     <td>9.</td>
