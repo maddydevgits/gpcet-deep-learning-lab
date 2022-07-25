@@ -44,12 +44,12 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>7.</td>
-    <td>GRU Implementation for Temperature Prediction System</td>
+    <td>Dog and Cat Image Classifier using CNN</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment6/app.ipynb">Code</a></td>
   </tr>
   <tr>
     <td>8.</td>
-    <td>Dog and Cat Image Classifier using CNN</td>
-    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment6/app.ipynb">Code</a></td>
+    <td>Dog and Cat Image Classifier using InceptionV3</td>
   </tr>
   <tr>
     <td>9.</td>
