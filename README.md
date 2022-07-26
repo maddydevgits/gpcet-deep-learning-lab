@@ -55,6 +55,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>9.</td>
     <td>Stock Prediction System using LSTM</td>
+    <td><a href="https://github.com/maddydevgits/stock-market-price-prediction/blob/main/app.py">Code</a></td>
   </tr>
 </table>
 
