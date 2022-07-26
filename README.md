@@ -50,6 +50,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>8.</td>
     <td>Dog and Cat Image Classifier using InceptionV3</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment7/app.ipynb">Code</a></td>
   </tr>
   <tr>
     <td>9.</td>
