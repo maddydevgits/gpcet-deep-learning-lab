@@ -37,6 +37,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>5.</td>
     <td>LSTM Implementation for IMDB Data</td>
+    <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment8/app.py">Code</a></td>
   </tr>
   <tr>
     <td>6.</td>
