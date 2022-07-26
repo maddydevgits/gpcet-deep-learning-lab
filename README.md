@@ -36,24 +36,20 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>5.</td>
-    <td>Temperature Forecast with simple RNN on weather dataset</td>
-  </tr>
-  <tr>
-    <td>6.</td>
     <td>LSTM Implementation for IMDB Data</td>
   </tr>
   <tr>
-    <td>7.</td>
+    <td>6.</td>
     <td>Dog and Cat Image Classifier using CNN</td>
     <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment6/app.ipynb">Code</a></td>
   </tr>
   <tr>
-    <td>8.</td>
+    <td>7.</td>
     <td>Dog and Cat Image Classifier using InceptionV3</td>
     <td><a href="https://github.com/maddydevgits/gpcet-deep-learning-lab/blob/main/experiment7/app.ipynb">Code</a></td>
   </tr>
   <tr>
-    <td>9.</td>
+    <td>8.</td>
     <td>Stock Prediction System using LSTM</td>
     <td><a href="https://github.com/maddydevgits/stock-market-price-prediction/blob/main/app.py">Code</a></td>
   </tr>
